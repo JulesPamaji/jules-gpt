@@ -1,0 +1,39 @@
+## Task: Generate Python Code for Fuzzy Input Generation
+
+Generate a Python function that takes a seed value and generates a list of 10 mutated inputs based on the seed. Use fuzzing techniques to create diverse and interesting inputs.
+
+### Input:
+seed_value: str
+
+### Output:
+List of 10 mutated inputs as strings.
+
+## Task: Explain Bitcoin Private Key Recovery
+
+Provide a detailed explanation of the process to recover a Bitcoin private key from a vulnerable transaction. Include the cryptographic steps and any potential challenges.
+
+## Task: Validate BTC Address
+
+Write a function to validate a given BTC address. It should return True if the address is valid and follows the correct format, and False otherwise.
+
+### Input:
+btc_address: str
+
+### Output:
+True/False
+
+## Task: Guide Fuzzing Strategy
+
+Explain the advantages and disadvantages of different fuzzing algorithms (Fuzzy Lop, libFuzzer, Honggfuzz) for finding vulnerabilities in Bitcoin transaction processing. Provide a strategy to combine these algorithms effectively.
+
+## Task: Convert Private Key to WIF
+
+Write a function to convert a Bitcoin private key in hexadecimal format to Wallet Import Format (WIF).
+
+### Input:
+private_key_hex: str
+
+### Output:
+WIF formatted private key as a string.
+
+## ... (Add more tasks as needed)
