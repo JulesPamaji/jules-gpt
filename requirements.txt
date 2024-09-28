@@ -14,8 +14,8 @@ toml
 transformers
 torch 
 os11
-argparse
-concurrent.futures
+argparse3
+pycopy-concurrent.futures
 pytest
 coverage
 logging
