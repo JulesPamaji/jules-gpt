@@ -1,0 +1,18 @@
+python-afl
+llvm-libfuzzer-python
+honggfuzz
+pytrace 
+bitcoinlib
+requests
+cryptography
+ecdsa 
+flask
+flask-restful
+flask-jwt-extended 
+pyyaml
+toml
+transformers
+torch 
+os, logging, argparse, concurrent.futures
+pytest
+coverage
