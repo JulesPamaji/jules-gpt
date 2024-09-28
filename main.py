@@ -1,6 +1,6 @@
 import argparse
 import threading
-from fuzzer_modules import (FuzzyLopFuzzing, LibFuzzerFuzzing, HonggfuzzFuzzing, OSSFuzzIntegration)
+from fuzzers import (FuzzyLopFuzzing, LibFuzzerFuzzing, HonggfuzzFuzzing, OSSFuzzIntegration)
 from btc_utils import is_valid_address, recover_private_key, get_address_balance
 from api import run_api_server
 from gpt_integration import GPTModel
