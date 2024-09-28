@@ -1,6 +1,6 @@
 python-afl
-llvm-libfuzzer-python
-honggfuzz
+llvm2py
+fuzzable
 pytrace 
 bitcoinlib
 requests
@@ -13,7 +13,7 @@ pyyaml
 toml
 transformers
 torch 
-os
+os11
 logging
 argparse
 concurrent.futures
